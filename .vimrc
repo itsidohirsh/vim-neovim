@@ -54,6 +54,10 @@ set incsearch
 set colorcolumn=80
 highlight ColorColumn ctermbg=0 guibg=lightgrey
 
+" Turn terminal beep soudn off
+set visualbell
+set t_vb=
+
 " Make cursor line and block in insert and normal modes respectivly.
 let &t_SI = "\e[5 q"
 let &t_EI = "\e[1 q"
