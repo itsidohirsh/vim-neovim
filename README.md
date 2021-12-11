@@ -1,2 +1,2 @@
 # Vimrc
-My vim's vimrc custom file
+My vim's .vimrc file
