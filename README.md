@@ -14,3 +14,7 @@ My vim's .vimrc file is included above
 10. Quit nvim
 11. Run `nvim` again...
 12. And that's it!
+
+If some of the icons are not appearing, install all [Hack Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack) and it should solve the problem :)
+
+Link to the video series this information was take from: [Neovim IDE from Scratch](https://www.youtube.com/watch?v=ctH-a-1eUME&list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ&ab_channel=ChrisAtMachine)
