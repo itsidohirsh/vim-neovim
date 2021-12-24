@@ -2,11 +2,11 @@
 ## vim
 My vim's .vimrc file is included above
 ## neovim
-1. `sudo apt install git`
-2. `sudo apt install build-essential` and `sudo apt-get install manpages-dev` for gcc package
+1. `sudo apt install git -y`
+2. `sudo apt install build-essential -y` and `sudo apt-get install manpages-dev -y` for gcc package
 3. `sudo add-apt-repository ppa:neovim-ppa/unstable`
 4. `sudo apt-get update`
-5. `sudo apt-get install neovim`
+5. `sudo apt-get install neovim -y`
 6. **IMPORTANT** make sure `neovim --version` is at least `Neovim 0.6 release` version
 7. Make sure to remove or move you current `~/.config/nvim` directory
 8. Clone [this](https://github.com/LunarVim/Neovim-from-scratch) repo into `~/.config/nvim`
