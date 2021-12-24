@@ -2,7 +2,7 @@
 ## vim
 My vim's .vimrc file is included above
 ## neovim
-1. `sudo apt insall git`
+1. `sudo apt install git`
 2. `sudo apt install build-essential` and `sudo apt-get install manpages-dev` for gcc package
 3. `sudo add-apt-repository ppa:neovim-ppa/unstable`
 4. `sudo apt-get update`
