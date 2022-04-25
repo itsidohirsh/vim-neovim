@@ -1,6 +1,9 @@
 # Vim & Neovim
+My .vimrc & a cool neovim configuration setup 🧷
+
 ## vim
 My vim's .vimrc file is included above
+
 ## neovim
 1. `sudo apt install git -y`
 2. `sudo apt install build-essential -y` and `sudo apt-get install manpages-dev -y` for gcc package
